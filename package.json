@@ -1,0 +1,23 @@
+{
+  "name": "seekjs-plugin-listen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likaituan/seekjs-plugin-listen.git"
+  },
+  "author": "Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likaituan/seekjs-plugin-listen/issues"
+  },
+  "homepage": "https://github.com/likaituan/seekjs-plugin-listen#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  }
+
+}
